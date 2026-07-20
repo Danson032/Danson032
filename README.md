@@ -1,7 +1,9 @@
 # Hi, I'm Danson Nganga 👋
 
 ## About Me
-🎓 Computer Science and Mathematics student at Meru University of Science and Technology.
+🎓 A bachelor of science in software development student at BYU-Idaho.
+
+🎓 Computer Science and Mathematics student at Meru University of Science and Technology
 
 💻 Passionate about web development, cloud databases, and software engineering.
 
