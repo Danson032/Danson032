@@ -29,8 +29,11 @@ A cloud-based task management application built with Firebase Firestore.
 ### 📌 Nairobi Chamber of Commerce Website
 A responsive website featuring business listings, weather information, and local events.
 
+[ Nairobi Chamber of Commerce Website](https://danson032.github.io/wdd231/chamber/index.html)
+
 ### 📌 Dykes Gaming Hub
 A gaming discovery application using the RAWG API.
+
 [Dykes Gaming hub](https://danson032.github.io/Dykes-gaming-hub-WDD330/)
 
 ## Connect with Me
