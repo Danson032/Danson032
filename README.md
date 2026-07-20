@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Danson Nganga 👋
 
-<!--
-**Danson032/Danson032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Computer Science and Mathematics student at Meru University of Science and Technology.
 
-Here are some ideas to get you started:
+💻 Passionate about web development, cloud databases, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning JavaScript, Firebase, SQL, and modern web technologies.
+
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Java
+- SQL
+- Firebase
+- Git & GitHub
+- Docker
+
+## Projects
+
+### 📌 Student Task Manager
+A cloud-based task management application built with Firebase Firestore.
+
+### 📌 Nairobi Chamber of Commerce Website
+A responsive website featuring business listings, weather information, and local events.
+
+### 📌 Dykes Gaming Hub
+A gaming discovery application using the RAWG API.
+
+## Connect with Me
+
+📧 Email: dansonnganga019@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/danson-nganga-08615b340
+
